@@ -1,12 +1,5 @@
 # My-first-CTF-report
 A complete structural of Vulnerability assessment and pentesting
-TABLE OF CONTENTS
-Introduction………………………………………………………………………… 3
-Summary………………………………………………………………………………3
-Scope……………………………………………………………………………………3
-Detailed-Findings……………………………………………………………………4
-Proof -of -concept ………………………………………………………………….5
-Conclusion & Remediation-summary………………………………………..6
 INTRODUCTION
 This report analyze CTF challenge involving a Packet capture (pcap) file that
 document multi-stage attack chain. The attacker established ftp connection
